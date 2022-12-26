@@ -1,0 +1,12 @@
+import pyautogui
+import time
+time.sleep(10)
+a = 40
+while a >= 1:
+    pyautogui.typewrite("Hello")
+    time.sleep(0)
+    pyautogui.press("enter")
+    a -= 1
+
+
+

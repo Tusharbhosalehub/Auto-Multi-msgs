@@ -1,5 +1,6 @@
 # Auto-Multi-Messages
 
 This is a code using Python Pyauto GUI.
-This can be use for spamming, a single text message can be forwarded multiple times.
+Use for spamming, a single text message multiple times.
+Can send SINGLE TEXT multiple times within seconds.
 It is a fun code.
